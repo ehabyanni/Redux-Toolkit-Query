@@ -50,7 +50,53 @@
       "id": "0ba3",
       "userId": "e137",
       "title": "Intelligent Cotton Pants"
+    },
+    {
+      "id": "6c27",
+      "userId": "942c",
+      "title": "Ergonomic Cotton Car"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "9dcc",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=47998"
+    },
+    {
+      "id": "8b17",
+      "albumId": "6c27",
+      "url": "https://loremflickr.com/150/150/abstract?lock=20473"
+    },
+    {
+      "id": "02b0",
+      "albumId": "6c27",
+      "url": "https://loremflickr.com/150/150/abstract?lock=81818"
+    },
+    {
+      "id": "93a2",
+      "albumId": "0ba3",
+      "url": "https://loremflickr.com/150/150/abstract?lock=21190"
+    },
+    {
+      "id": "c194",
+      "albumId": "10",
+      "url": "https://picsum.photos/seed/e2a3cf7e-9d52-4e34-bdd0-0c282a83f233/150/150"
+    },
+    {
+      "id": "30fd",
+      "albumId": "10",
+      "url": "https://picsum.photos/seed/94de2cc2-ec74-451f-ba79-cf63e3301329/150/150"
+    },
+    {
+      "id": "f8be",
+      "albumId": "f3a0",
+      "url": "https://picsum.photos/seed/89f3feee-e0b8-4259-b11d-942c27db8ede/150/150"
+    },
+    {
+      "id": "3777",
+      "albumId": "f3a0",
+      "url": "https://picsum.photos/seed/b9913b17-8470-452d-9921-e3d1314afd43/150/150"
+    }
+  ]
 }

@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "c85e",
+      "name": "Maureen Gutkowski"
+    },
+    {
+      "id": "b2da",
+      "name": "Emilio Collins"
+    },
+    {
+      "id": "e137",
+      "name": "Jeanne Gerlach"
+    },
+    {
+      "id": "942c",
+      "name": "Clint Hessel"
+    },
+    {
+      "id": "f851",
+      "name": "Celia Hagenes"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "f3a0",
+      "userId": "1",
+      "title": "Tasty Bronze Fish"
+    },
+    {
+      "id": "c3f0",
+      "userId": "c85e",
+      "title": "Fantastic Rubber Chair"
+    },
+    {
+      "id": "34c9",
+      "userId": "b2da",
+      "title": "Handmade Wooden Soap"
+    },
+    {
+      "id": "0ba3",
+      "userId": "e137",
+      "title": "Intelligent Cotton Pants"
+    }
+  ],
+  "photos": []
+}
